@@ -1,5 +1,7 @@
 # Project Palindrome
 
+**Current Stage:** Pre-alpha
+
 <a href="https://twitter.com/getpalindrome" title="Check out @GetPalindrome on Twitter">#BuildingInPublic</a>
 
 Project Palindrome is a collective movement dedicated to the ongoing advancement of content creation for the modern web.
